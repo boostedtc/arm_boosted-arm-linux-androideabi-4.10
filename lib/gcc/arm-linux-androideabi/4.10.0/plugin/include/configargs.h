@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = ".././../gcc/gcc-Boosted/configure --prefix=/tmp/arm-linux-androideabi-4.10 --target=arm-linux-androideabi --host=x86_64-linux-gnu --build=x86_64-linux-gnu --with-gnu-as --with-gnu-ld --enable-languages=c,c++ --with-pkgversion=Boosted-Toolchain --with-gmp=/home/hieu/toolchains/google/build/temp-install --with-mpfr=/home/hieu/toolchains/google/build/temp-install --with-mpc=/home/hieu/toolchains/google/build/temp-install --without-ppl --without-cloog --without-isl --disable-libssp --enable-threads --disable-nls --disable-libmudflap --disable-libgomp --disable-libstdc__-v3 --disable-sjlj-exceptions --disable-shared --disable-tls --disable-libitm --with-float=soft --with-fpu=neon --with-arch=armv7-a --enable-target-optspace --prefix=/tmp/arm-linux-androideabi-4.10 --with-gcc-version=Boosted --with-binutils-version=current --enable-plugins --with-gmp-version=current --with-mpfr-version=current --with-gdb-version=current --with-mpc-version=current --with-cloog-version=current --with-isl-version=0.11.1 --with-sysroot=/ --enable-threads=posix --disable-libquadmath --disable-libatomic --disable-libsanitizer --with-gold-version=current --enable-gold=yes --enable-gold=default --program-transform-name='s&^&arm-linux-androideabi-&'";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "arch", "armv7-a" }, { "float", "soft" }, { "fpu", "neon" }, { "tls", "gnu" } };
